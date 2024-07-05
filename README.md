@@ -9,7 +9,7 @@ Necessario ter o Java e o Maven instalados na máquina. <br>
 
 * [Java 17](https://www.oracle.com/br/java/technologies/downloads/#java17)
 * [Maven 3.9.5](https://maven.apache.org/download.cgi)
-
+* PostgreSQL
 ## Endpoints
 
 * Criar Produto<br>
